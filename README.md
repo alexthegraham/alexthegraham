@@ -29,6 +29,7 @@ July 2016 - June 2019
 ### Schrodinger
 Portland, Oregon
 #### Senior Systems Administrator
+May 2012 - June 2016
 
 ### Arc Worldwide
 Chicago, Illinois
