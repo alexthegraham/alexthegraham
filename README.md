@@ -7,16 +7,21 @@ Portland, Oregon
 Portland, Oregon
 #### IT Manager, Schrodinger
 January 2022 - Present
-Managint a global team of Infrastructure Administrators and Engineers focused on delivering reliability, scalability, and automation for software developers, and pharmaceutical and materials research scientists.
+Currently managing a global team of Infrastructure Administrators and Engineers focused on delivering secure, stable, and scalable systems for software developers and pharmaceutical and materials research scientists. As the first manager of a new team, I led my team and internal stakeholders to develop new processes, procedures, and practices, including Agile, to streamline delivery of cloud, network, and storage.
 
 #### Senior Systems Administrator, Schrodinger
 May 2020 - January 2022
+Responsibilities included:
+configuration management via collaborative development (SaltStack, Git, Reviewboard), virtualization in public and private cloud (VMware, GCP, AWS, OpenStack),
+asset discovery, management, and lifecycle operations (Asset Explorer, Device42), storage configuration and maintenance (NetApp, EMC Isilon and VNX),
+networking (Cisco, Dell Force10), scripting (Python, Jinja, shell), security,
+customer support (Jira, HipChat), and professional development (DevOps, ITIL, InfoSec).
 
 ### Montavilla Brew Works
 Portland, Oregon
 #### Brewer / Sales
 July 2019 - March 2020
-Assist with all aspects of brewing operations, cleanup, cellar maintenance, quality control, recipe creation and operations in a 10bbl brewery and taproom. B2B wholesale sales, including acquiring new accounts, scheduling, account management, and delivery. Retail taproom sales, focused on customer service.
+Collaborated with Head Brewer/Owner in all aspects of brewing, recipe development, business operations, quality control, and equipment maintenance. Led B2B sales, including: acquiring new accounts, scheduling, account management, and delivery. Ran day-to-day taproom operations, focused on customer service, and managed website and social media presence.
 
 #### Assistant Brewer / Sales
 July 2016 - June 2019
@@ -29,6 +34,7 @@ Portland, Oregon
 Chicago, Illinois
 #### Systems Engineer
 May 2011 - May 2012
+Architected and supported virtual and physical infrastructure to support the web development department of one of the world’s largest advertising companies. Developed skills in Apache, IIS, WebSphere, Jenkins, VMware, AWS, system provisioning, ITIL compliance, Active Directory, DNS, deployment, security, and disaster recovery.
 
 ### Whitehouse Post
 Chicago, Illinois
