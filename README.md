@@ -1,5 +1,5 @@
 # Alex Graham
-alexthegraham@gmail.com
+###### alexthegraham@gmail.com
 Portland, Oregon
 
 ## Experience
