@@ -1,6 +1,6 @@
 # Alex Graham
 ###### alexthegraham@gmail.com
-Portland, Oregon
+Experienced Systems Administrator / Engineer with a wide-ranging, holistic view of the IT landscape and the needs and priorities of SMBs, enterprises, and end-users. Currently located in Portland, Oregon.
 
 ## Experience
 ### Schrodinger
