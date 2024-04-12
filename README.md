@@ -7,15 +7,11 @@ Experienced Systems Administrator / Engineer with a wide-ranging, holistic view 
 Portland, Oregon
 #### IT Manager, Schrodinger
 ###### January 2022 - Present
-Currently managing a global team of Infrastructure Administrators and Engineers focused on delivering secure, stable, and scalable systems for software developers and pharmaceutical and materials research scientists. As the first manager of a new team, I led my team and internal stakeholders to develop new processes, procedures, and practices, including Agile, to streamline delivery of cloud, network, and storage.
+Currently managing a global team of Infrastructure Administrators and Engineers focused on delivering secure, stable, and scalable systems for software developers and pharmaceutical and materials research scientists. As the first manager of a new team, I led my team and internal stakeholders to develop new processes, procedures, and practices, including Agile, to streamline delivery of public and private cloud, network, and storage for hundreds of users across the globe.
 
 #### Senior Systems Administrator, Schrodinger
 ###### May 2020 - January 2022
-Responsibilities included:
-configuration management via collaborative development (SaltStack, Git, Reviewboard), virtualization in public and private cloud (VMware, GCP, AWS, OpenStack),
-asset discovery, management, and lifecycle operations (Asset Explorer, Device42), storage configuration and maintenance (NetApp, EMC Isilon and VNX),
-networking (Cisco, Dell Force10), scripting (Python, Jinja, shell), security,
-customer support (Jira, HipChat), and professional development (DevOps, ITIL, InfoSec).
+Responsibilities included: configuration management via collaborative development (SaltStack, Git, Reviewboard), virtualization in public and private cloud (VMware, GCP, AWS, OpenStack), asset discovery, management, and lifecycle operations (Asset Explorer, Device42), storage configuration and maintenance (NetApp, EMC Isilon and VNX), networking (Cisco, Dell Force10), scripting (Python, Jinja, shell), security, customer support (Jira, HipChat), and professional development (DevOps, ITIL, InfoSec).
 
 ### Montavilla Brew Works
 Portland, Oregon
